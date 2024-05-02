@@ -1,0 +1,5 @@
+print "Hola mundo Python"
+bool = true/false
+int = 8
+float = 38.90
+str = "gracias"
